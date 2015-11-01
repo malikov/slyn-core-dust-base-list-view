@@ -1,0 +1,27 @@
+{
+  "name": "slyn-core-dust-base-list-view",
+  "version": "0.0.1",
+  "description": "slyn-core-dust-base-list-view",
+  "main": "lib/index.js",
+  "keywords": [
+    "slyn-core-dust-base-list-view"
+  ],
+  "homepage": "https://github.com/malikov/slyn-core-dust-base-list-view",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malikov/slyn-core-dust-base-list-view"
+  },
+  "author": {
+    "name": "Vincent Maliko",
+    "email": "malikovincent@gmail.com"
+  },
+  "dependencies": {
+    "underscore": "~1.8.3",
+    "q": "~1.4.1",
+    "backbone": "~1.2.3"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malikov/slyn-core-dust-base-list-view/issues"
+  }
+}
