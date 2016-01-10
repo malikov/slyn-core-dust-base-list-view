@@ -1,6 +1,6 @@
 {
   "name": "slyn-core-dust-base-list-view",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "slyn-core-dust-base-list-view",
   "main": "lib/index.js",
   "keywords": [
